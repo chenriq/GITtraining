@@ -1,4 +1,4 @@
-# GITtraining
-I am creating this repository
+# Computational Neuroengineering BME 503
 
-I am not adding stuff here
+
+
